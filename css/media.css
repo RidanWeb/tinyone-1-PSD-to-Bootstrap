@@ -1,0 +1,311 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+h1{
+	font-size: 22px;
+}
+p{
+	font-size: 16px;
+}
+
+/*menubar-section-satrt*/
+.logo-name {
+    font-size: 26px;
+}
+.menubar-section{
+	padding: 25px 0 !important;
+}
+.custon-menu ul li a{
+	text-align: center;
+	border-bottom: 2px solid #ffffff;
+	padding: 0 !important;
+	padding: 0 35px !important;
+	padding-bottom: 10px !important;
+}
+.custon-menu ul li:first-child a {
+	padding-left: 35px !important;
+}
+.custon-menu ul li:last-child a {
+	padding-right: 35px !important;
+}
+/*menubar-section-end*/
+/*slider-section-start*/
+.slider-section{ 
+	padding: 10px 0 40px 0;
+}
+.slider-left{
+	padding-top: 0px;
+	text-align: center;
+}
+
+.secound-p {
+    margin-bottom: 25px;
+}
+.slider-right img{
+	display: none;
+}
+.slider-left ul li {
+    font-size: 28px !important;
+    margin-right: 25px !important;
+}
+.custom-carousal{
+	bottom: -40px;
+}
+.custom-carousal li {
+    width: 12px;
+    height: 12px;
+}
+/*slider-section-end*/
+/*features-start*/
+.features{
+	padding: 40px 0;
+}
+.features-title{
+	padding-bottom: 20px;
+}
+.features-text p {
+    font-size: 16px;
+}
+.features-icon i {
+    font-size: 35px;
+    margin-bottom: 8px;
+}
+/*features-end*/
+/*contact-start*/
+.contact{
+	padding: 40px 0;
+}
+.contact-title p{
+	margin-bottom: 30px;
+}
+.email-form input{
+    padding: 20px 15px;
+}
+.button-form{
+	text-align: center;
+	margin-top: 30px;
+}
+.button-form button{
+	padding: 8px 25px;
+}
+.custom-social-icon {
+    font-size: 25px;
+    height: 28px;
+    width: 28px;
+    margin-right: 18px !important;
+}
+.mb-80{
+	margin-bottom: 40px;
+}
+.footer-content address, .footer-content ul li {
+    font-size: 14px;
+}
+.contact-social{
+	padding-bottom: 40px;
+}
+/*contacxt-end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+h1{
+	font-size: 26px;
+}
+p{
+	font-size: 16px;
+}
+
+/*menubar-section-satrt*/
+.menubar-section{
+	padding: 30px 0 !important;
+}
+.custon-menu ul li a{
+	font-size: 22px;
+	text-align: center;
+	padding-bottom: 15px !important;
+	border-bottom: 2px solid #ffffff;
+}
+.custon-menu ul li:first-child a {
+	padding-left: 35px !important;
+}
+.custon-menu ul li:last-child a {
+	padding-right: 35px !important;
+}
+/*menubar-section-end*/
+/*slider-section-start*/
+.slider-section {
+    padding-bottom: 60px;
+}
+.slider-left{
+	padding-top: 5px;
+}
+.slider-left ul li {
+    font-size: 30px !important;
+    margin-right: 30px !important;
+}
+.secound-p {
+    margin-bottom: 25px;
+}
+.custom-carousal {
+    bottom: -45px;
+}
+.custom-carousal li {
+    width: 15px;
+    height: 15px;
+}
+/*slider-section-end*/
+/*features-start*/
+.features{
+	padding: 50px 0;
+}
+.features-title{
+	padding-bottom: 40px;
+}
+.features-text p {
+    font-size: 16px;
+}
+.features-icon i{
+	font-size: 40px;
+}
+.pl_0{
+	padding-left: 0;
+}
+.pr_0{
+	padding-right: 0;
+}
+/*features-end*/
+/*contact-start*/
+.contact{
+	padding: 50px 0;
+}
+.email-form input{
+    padding: 22px 20px;
+}
+.button-form button{
+	padding: 10px 30px;
+}
+.mb-80{
+	margin-bottom: 50px;
+}
+.contact-social{
+	padding-bottom: 50px;
+}
+.custom-social-icon {
+    font-size: 28px;
+    height: 34px;
+    width: 34px;
+    margin-right: 22px !important;
+}
+.footer-content address,.footer-content ul li {
+    font-size: 15px;
+}
+/*contacxt-end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+h1{
+	font-size: 27px;
+}
+p{
+	font-size: 18px;
+}
+	/*menubar-section-satrt*/
+.menubar-section{
+	padding: 40px 0 !important;
+}
+.logo-name{
+	font-size: 28px;
+}
+.custon-menu ul li a{
+	font-size: 19px;
+	padding: 0 22px !important;
+}
+/*menubar-section-end*/
+/*slider-section-start*/
+.slider-section{
+	padding-bottom: 80px;
+}
+.slider-left{
+	padding-top: 25px;
+}
+.secound-p{
+	font-size: 16px;
+	margin-bottom: 25px;
+}
+.slider-left ul li{
+	font-size: 35px !important;
+	margin-right: 30px !important;
+}
+.slider-right img{
+	margin-right: 0px;
+	width: 250px;
+}
+.custom-carousal{
+	bottom: -65px;
+}
+.custom-carousal li{
+    width: 18px;
+    height: 18px;
+}
+/*slider-section-end*/
+/*features-start*/
+.features{
+	padding: 70px 0;
+}
+.features-title{
+	padding-bottom: 40px;
+}
+.features-text h1{
+	font-size: 22px;
+}
+.features-icon i{
+	font-size: 36px;
+}
+.features-text p{
+	font-size: 16px;
+	margin-bottom: 0;
+}
+/*features-end*/
+/*contact-start*/
+.contact{
+	padding: 70px 0;
+}
+.contact-title p{
+	margin-bottom: 35px;
+}
+.email-form input{
+    padding: 23px 25px;
+}
+.button-form button{
+	padding: 12px 20px;
+	font-size: 15px;
+}
+.mb-80{
+	margin-bottom: 50px;
+}
+.contact-social{
+	padding-bottom: 40px;
+}
+..custom-social-icon {
+    font-size: 36px;
+    height: 36px;
+    width: 36px;
+}
+.footer-content address,.footer-content ul li {
+    font-size: 15px;
+}
+/*contacxt-end*/
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.menubar-section {
+    padding: 45px 0 !important;
+}
+.slider-left {
+    padding-top: 45px;
+}
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
